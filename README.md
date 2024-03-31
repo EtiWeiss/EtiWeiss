@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MikkiVaughn
-- 👀 I’m interested in Data Warehousing and Pipeling
+- 👀 I’m interested in Data Warehousing and Pipelining
 - 🌱 I’m currently learning Back-end Dev
 - 😄 Pronouns: she/her/they/them
 - ⚡ Fun fact: I am a landscape photographer and am probably listening to Jazz right now
