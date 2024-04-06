@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MikkiVaughn
+- 👋 Hi, I’m @EtiWeiss
 - 👀 I’m interested in Data Warehousing and Pipelining
 - 🌱 I’m currently learning Back-end Dev
 - 😄 Pronouns: she/her/they/them
